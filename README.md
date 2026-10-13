@@ -2,7 +2,7 @@ Cybersecurity Portfolio
 
 Welcome to my cybersecurity portfolio!
 
-I have an educational background in Computer Science, Cyber Security, and Computer Forensics. I created this portfolio to document my learning journey, practical exercises, and developing technical skills through the Google Cybersecurity Certificate.
+I have an educational background in Computer Science, Cyber Security, and Computer Forensics. I created this portfolio to document my learning journey, coursework, and developing technical skills through the Google Cybersecurity Certificate.
 
 About Me
 
@@ -44,13 +44,13 @@ Planned
 
 Linux File Permissions
 
-Practicing Linux commands to manage file permissions
+Learning to manage file permissions using Linux commands
 
 Planned
 
 SQL Queries
 
-Practicing SQL filters for security-related analysis
+Learning to use SQL filters for security-related analysis
 
 Planned
 
@@ -62,6 +62,4 @@ Planned
 
 Learning and Development
 
-I plan to continue updating this portfolio as I complete projects, gain practical experience, and develop my cybersecurity knowledge through the Google Cybersecurity Certificate.
-
-
+I plan to continue updating this portfolio as I complete coursework, practice technical skills, and build hands-on cybersecurity projects through the Google Cybersecurity Certificate.
